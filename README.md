@@ -1,2 +1,2 @@
-# scalable-cloud-native-project-showcase
+# scalable-cloud-native
 A foundational project for demonstrating scalable cloud-native services.
